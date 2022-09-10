@@ -71,7 +71,7 @@ React.useEffect((event) => {
 
 
   return (
-    <div>
+    <div className="crtarea">
       <form className="create-note" >
         
           <input
